@@ -1,5 +1,5 @@
 # DXC Technology 1A
-Cindy Nakhammouane, Destiny Osemwengie, Jennifer Zheng, and Willa Liou
+Willa Liou, jennifer zheng, cindy nakhammouane, Destiny osemwengie
 
 # Overview
 The purpose of this project is to create an AI-driven chatbot that effectively understands and interprets the EU AI Act. 
