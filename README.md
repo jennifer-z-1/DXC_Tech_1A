@@ -21,3 +21,5 @@ NLP techniques will be employed to enable the chatbot to:
 - Interpret and manipulate text effectively.
 
 We currently have two pipelines, a Cohere and an Azure pipeline, which are the result of exploration with various AI tools. 
+
+** for information on installing required packages and dependencies, please refer to the respective jupyter notebook file for that LLM **
